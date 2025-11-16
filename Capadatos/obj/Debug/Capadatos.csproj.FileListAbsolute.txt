@@ -1,9 +1,0 @@
-C:\Users\hecto\source\repos\SistemaDeVenta\Capadatos\bin\Debug\Capadatos.dll
-C:\Users\hecto\source\repos\SistemaDeVenta\Capadatos\bin\Debug\Capadatos.pdb
-C:\Users\hecto\source\repos\SistemaDeVenta\Capadatos\bin\Debug\CapaEntidad.dll
-C:\Users\hecto\source\repos\SistemaDeVenta\Capadatos\bin\Debug\CapaEntidad.pdb
-C:\Users\hecto\source\repos\SistemaDeVenta\Capadatos\obj\Debug\Capadatos.csproj.AssemblyReference.cache
-C:\Users\hecto\source\repos\SistemaDeVenta\Capadatos\obj\Debug\Capadatos.csproj.CoreCompileInputs.cache
-C:\Users\hecto\source\repos\SistemaDeVenta\Capadatos\obj\Debug\Capadatos.csproj.Up2Date
-C:\Users\hecto\source\repos\SistemaDeVenta\Capadatos\obj\Debug\Capadatos.dll
-C:\Users\hecto\source\repos\SistemaDeVenta\Capadatos\obj\Debug\Capadatos.pdb
